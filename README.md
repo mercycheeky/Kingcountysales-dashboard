@@ -23,6 +23,17 @@ On the dashboard is also a line chart that shows the average house sale price in
 1. Open tableau
 2. Coonect to a microsoft excel file
 3. Choose HouseData csv from your pc
-4. 
+4. Without hAVING to go through all the process, just open the tbwx format on tbleau and view the whole dashboard. Play around with the fidgets.
+5. Customize everything to your liking.
+
+## Data sources
+[HouseData]{https://github.com/mochen862/king-county-house-sales/blob/main/HouseData.xlsx}
+
+## Acknowledgements
+Dataset was provided by [MoChen862]{https://github.com/mochen862/king-county-house-sales/blob/main/HouseData.xlsx}
+
+- Built using Tableau
+  Made with 💙
+
 
 
